@@ -5,6 +5,6 @@ A multi-linear predictive model to predict condominiums' market price based on d
 techniques Used:
 
 * Linear Regression
-* Data imputaion
+* Data imputation
 * Variable Transformation
 * Walkscore API implementation based on Longitude & Lattitude data
